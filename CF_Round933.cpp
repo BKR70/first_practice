@@ -54,7 +54,6 @@ int32_t main() {
     //int t=1;
     //int cnt = 0;
     while(t--) {
-	//cout << "Case " << ++cnt << ": ";
         p_solved();
     }
     return 0;
